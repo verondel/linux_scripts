@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Connect VPN
+Exec=bash '/home/a1/Рабочий стол/temp/ConnectVPN.sh'
+Icon='/home/a1/icons/vpn_icon_1.png'
+Terminal=false
